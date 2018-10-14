@@ -6,11 +6,15 @@ The customer functionality allows a customer through the CLI to pick from a list
 
 See the customer portal video below.
 
-[!Watch the video](/assets/BamazonCustomer.gif)
+https://drive.google.com/open?id=1iSYSSAOnUf_e2uNdBInZ8tEuBo2tj7DB
+
+[](assets/BamazonCustomer.gif)
 
 
 The manager functionality allows the manager to go in a view current stock inventory of all products available.  They can seach for low inventory items which is set at quantity 500.  They can add inventory to the current inventory levels and they can add new products which pushes the information to the mySQL database.
 
 See the manager portal video below.
 
-[!Watch the video](/assets/BamazonManager.gif)
+https://drive.google.com/open?id=1ipVG8vFpWU_H2vHXoxsrqkjrKEZE27rI
+
+[](assets/BamazonManager.gif)
